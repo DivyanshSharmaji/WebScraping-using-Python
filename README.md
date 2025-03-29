@@ -1,9 +1,8 @@
-# WebScraping-using-Python
+# Project Name: Scraping Job Postings
 This project uses Python libraries(BS4, requests &amp; Pandas) to scrape job postings from a job website(www.shine.com).
 
-# Project Name: Scraping Job Postings
-
-# Objective: Write a Python script to scrape job postings from a job website (e.g., Shine.com) for a specific keyword.
+# Objective: 
+○ Write a Python script to scrape job postings from a job website (e.g., Shine.com) for a specific keyword.
 
 # Instructions:
  ○	Use requests to access the job listing page with the specified keyword (e.g., "Python Developer").
