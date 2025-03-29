@@ -1,16 +1,16 @@
-# Project Name: Scraping Job Postings
+### Project Name: Scraping Job Postings
 This project uses Python libraries(BS4, requests &amp; Pandas) to scrape job postings from a job website(www.shine.com).
 
-# Objective: 
+### Objective: 
 ○ Write a Python script to scrape job postings from a job website (e.g., Shine.com) for a specific keyword.
 
-# Instructions:
+### Instructions:
  ○	Use requests to access the job listing page with the specified keyword (e.g., "Python Developer").
  ○	Use BeautifulSoup to parse the page and extract job titles, company names, locations, and brief descriptions.
  ○	Display the extracted information in a structured format (e.g., table).
  ○	Save the scraped job postings to a CSV file.
 
-# Pre-requisites:
+### Pre-requisites:
 1. Install python in your computer 
 2. Run the following commands in the shell: 
   a. Pip install pandas 
